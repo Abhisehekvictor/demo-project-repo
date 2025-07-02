@@ -1,2 +1,3 @@
 # demo-project-repo
-This is my frist Repository
+This is my first Repository
+Author - Abhishek victor
